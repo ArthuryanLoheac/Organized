@@ -1,0 +1,5 @@
+add WIRE a, WIRE a, ACTUATOR b, WIRE b, SENSOR b, WIRE a, WIRE b, ACTUATOR a, WIRE a, SENSOR a, SENSOR c
+disp
+del TYPE WIRE, SENSOR, FEUR
+disp
+exit

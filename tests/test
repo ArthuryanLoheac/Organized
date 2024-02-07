@@ -1,0 +1,55 @@
+add WIRE a, WIRE a, ACTUATOR b, WIRE b, SENSOR b, WIRE a, WIRE b, ACTUATOR a, WIRE a, SENSOR a
+sort TYPE -r NAME -r ID -r
+sort TYPE NAME -r ID -r
+sort TYPE -r NAME -r ID
+sort TYPE NAME -r ID
+sort TYPE -r NAME ID -r
+sort TYPE NAME ID -r
+sort TYPE -r NAME ID
+sort TYPE NAME ID
+sort TYPE -r ID -r
+sort TYPE ID -r
+sort TYPE -r ID
+sort TYPE ID
+sort TYPE
+sort NAME -r TYPE -r ID -r
+sort NAME TYPE -r ID -r
+sort NAME -r TYPE -r ID
+sort NAME TYPE -r ID
+sort NAME -r TYPE ID -r
+sort NAME TYPE ID -r
+sort NAME -r TYPE ID
+sort NAME TYPE ID
+sort NAME -r ID -r
+sort NAME ID -r
+sort NAME -r ID
+sort NAME ID
+sort NAME
+sort ID -r TYPE -r NAME -r
+sort ID TYPE -r NAME -r
+sort ID -r TYPE -r NAME
+sort ID TYPE -r NAME
+sort ID -r TYPE NAME -r
+sort ID TYPE NAME -r
+sort ID -r TYPE NAME
+sort ID TYPE NAME
+sort ID -r NAME -r
+sort ID NAME -r
+sort ID -r NAME
+sort ID NAME
+sort ID
+sort ID -r NAME -r TYPE -r
+sort ID NAME -r TYPE -r
+sort ID -r NAME -r TYPE
+sort ID NAME -r TYPE
+sort ID -r NAME TYPE -r
+sort ID NAME TYPE -r
+sort ID -r NAME TYPE
+sort ID NAME TYPE
+sort ID -r TYPE -r
+sort ID TYPE -r
+sort ID -r TYPE
+sort ID TYPE
+sort ID -r
+disp
+exit

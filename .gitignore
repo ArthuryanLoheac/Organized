@@ -1,0 +1,8 @@
+organized
+*.log
+libmy.a
+docker
+unit_tests
+*.gcda
+*.gcno
+shell/*
