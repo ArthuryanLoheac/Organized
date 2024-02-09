@@ -2,7 +2,10 @@
 Le programme doit permettre d'ajouter et de supprimer des matériels, qui sont classés dans cinq catégories principales : Actuators, Devices, Processors, Sensors et Wires.  
 Les matériels sont stockés sous forme de listes chaînées pour une gestion efficace.  
 
-**Utilisation :**  
+**Utilisation :**
+Compilation :
+> make
+
 lancer programme :  
 > ./organized
 
